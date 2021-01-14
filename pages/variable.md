@@ -1,0 +1,6 @@
+---
+title: variable
+---
+
+## [[ML]]
+##
