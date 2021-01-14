@@ -1,3 +1,4 @@
 ---
 title: programming language
 ---
+## [[syntax]]
