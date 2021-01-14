@@ -2,5 +2,5 @@
 title: ML
 ---
 
-## ## [[variable]] 
+## [[variable]] 
 no assignment
