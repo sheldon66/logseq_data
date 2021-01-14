@@ -2,5 +2,5 @@
 title: variable
 ---
 
-## [[ML]]
+## immutable
 ##
