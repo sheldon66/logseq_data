@@ -10,8 +10,3 @@ title: semantics
 :PROPERTIES:
 :id: 600016db-827d-4993-821a-97b463a9c80c
 :END:
-##
-```clojure
-(println "Hello world!")
-```
-##
