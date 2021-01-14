@@ -2,5 +2,5 @@
 title: programming language
 ---
 
-##
-## ((60000b10-46f9-4e1c-9bbe-06fc3b09a1bc))
+## [[synatx]]
+## [[semantics]]
