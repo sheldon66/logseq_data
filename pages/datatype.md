@@ -2,4 +2,4 @@
 title: DataType
 ---
 
-## polymorphm
+## polymorphic and equality Types
