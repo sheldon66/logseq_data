@@ -2,7 +2,6 @@
 title: pattern matching
 ---
 
-### precise definition
+## precise definition
 pattern `p` value `v`
-1.
-1. sdfsdf
+1. variable `x`: `x -> v`
