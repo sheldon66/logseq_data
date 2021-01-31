@@ -3,4 +3,4 @@ title: pattern matching
 ---
 
 ## precise definition
-patteron `p`
+pattern `p`
