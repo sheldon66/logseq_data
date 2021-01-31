@@ -7,5 +7,5 @@ title: DataType
 type t1 is more general then the type t2 
 if you can take t1, replace its type variables consistently, and get t2
 ## equality type
-`sdf`
+`''a list -> bool`
 ##
