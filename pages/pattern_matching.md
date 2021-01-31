@@ -22,4 +22,10 @@ fun unzip3 lst =
 		       in
 			   (a::l1,b::l2,c::l3)
 		       end
+               
+fun nondecreasing xs =
+    case xs of
+	[] => true
+      | x::[] => true
+      | head::(neck::rest) => (head <= neck andalso nondecreasing (neck::rest))
 ```
