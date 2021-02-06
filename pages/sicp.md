@@ -6,4 +6,4 @@ title: SICP
 ### suppress detail
 ### use your way
 ## conventional interface
-## metalinguistic
+## metalinguistic abstraction
