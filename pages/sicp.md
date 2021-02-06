@@ -3,6 +3,7 @@ title: SICP
 ---
 
 ## black-box abstraction
+
 ```lisp
 (define A (* 5 5))
 
