@@ -4,6 +4,5 @@ title: random number
 
 ## javascript
 ```javascript
-sdf
-sdf
+//水电费
 ```
