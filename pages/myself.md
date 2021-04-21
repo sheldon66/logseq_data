@@ -3,5 +3,5 @@ title: myself
 ---
 
 ## 性格
-- sdf
+1. sdf
 sdf
