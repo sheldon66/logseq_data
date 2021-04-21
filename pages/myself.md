@@ -3,7 +3,7 @@ title: myself
 ---
 
 ## 性格
-1. sdf
-2. sdf
-## sdf
-sdf
+内倾
+敏感
+## 目标
+链接更多的人
