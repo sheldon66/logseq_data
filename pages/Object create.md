@@ -9,6 +9,7 @@ title: Object create
 #### new 操作符做了哪些步骤
 :PROPERTIES:
 :type: question
+:language: javascript
 :END:
 
 当一个函数被使用 new 操作符执行时，它按照以下步骤：
