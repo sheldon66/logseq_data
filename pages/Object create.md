@@ -20,8 +20,6 @@ title: Object create
 
 #+BEGIN_QUOTE
 https://zh.javascript.info/constructor-new
-#+END_QUOTE
-### click
-:PROPERTIES:
+#+END_QUOTE :PROPERTIES:
 :type: ((6077ac46-f040-4368-9898-ab338af20bac))
 :END:
