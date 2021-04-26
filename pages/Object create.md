@@ -2,7 +2,6 @@
 title: Object create
 ---
 
-## javascript
 ### new
 当一个函数被使用 new 操作符执行时，它按照以下步骤：
 
