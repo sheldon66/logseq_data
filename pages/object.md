@@ -11,4 +11,4 @@ title: Object
 返回 this 的值。
 #+BEGIN_QUOTE
 https://zh.javascript.info/constructor-new
-#+END_QUOTE
+## #+END_QUOTE
