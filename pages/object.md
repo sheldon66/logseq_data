@@ -14,5 +14,5 @@ https://zh.javascript.info/constructor-new #new解释
 #+END_QUOTE
 ### click
 :PROPERTIES:
-:type: 
+:type: ((6077ac46-f040-4368-9898-ab338af20bac))
 :END:
