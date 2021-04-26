@@ -2,7 +2,7 @@
 title: Object create
 ---
 
-### /ta
+###
 ### new操作符
 :PROPERTIES:
 :language: javascript
