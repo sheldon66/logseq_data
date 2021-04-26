@@ -1,5 +1,5 @@
 ---
-title: tail recursion
+title: recursion
 ---
 
 ## SML
