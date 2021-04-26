@@ -3,3 +3,4 @@ title: Object
 ---
 
 ## javascript
+### new
