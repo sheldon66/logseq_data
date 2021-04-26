@@ -9,7 +9,6 @@ title: Object
 一个新的空对象被创建并分配给 this。
 函数体执行。通常它会修改 this，为其添加新的属性。
 返回 this 的值。
-#+BEGIN_SRC 
-ttps://zh.javascript.info/constructor-new
-
-#+END_SRC
+#+BEGIN_QUOTE
+https://zh.javascript.info/constructor-new
+#+END_QUOTE
