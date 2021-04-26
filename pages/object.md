@@ -11,5 +11,5 @@ title: Object
 返回 this 的值。
 #+BEGIN_SRC 
 
-ttps://zh.javascript.info/constructor-new
+https://zh.javascript.info/constructor-new
 #+END_SRC
