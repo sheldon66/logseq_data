@@ -10,5 +10,5 @@ title: Object
 函数体执行。通常它会修改 this，为其添加新的属性。
 返回 this 的值。
 #+BEGIN_QUOTE
-https://zh.javascript.info/constructor-new
+## https://zh.javascript.info/constructor-new
 #+END_QUOTE
