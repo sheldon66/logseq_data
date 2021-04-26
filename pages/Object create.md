@@ -7,6 +7,9 @@ title: Object create
 :language: javascript
 :END:
 #### new 操作符做了哪些步骤
+:PROPERTIES:
+:type: question
+:END:
 
 当一个函数被使用 new 操作符执行时，它按照以下步骤：
 1. 一个新的空对象被创建并分配给 this。
