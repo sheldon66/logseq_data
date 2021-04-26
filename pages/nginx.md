@@ -3,7 +3,7 @@ title: nginx
 ---
 
 ## nginx mobile auto redirect
-```bash
+```sh
 location /
 {
       if ($http_user_agent ~* '(iPhone|iPod|android|blackberry)')
