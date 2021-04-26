@@ -9,4 +9,9 @@ if you can take t1, replace its type variables consistently, and get t2
 ## equality type
 `''a list -> bool`
 `'' a` type can use `=` operator
-##
+## javascript
+### main type
+undefined
+null
+number
+string
