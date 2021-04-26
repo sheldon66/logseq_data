@@ -17,5 +17,3 @@ https://zh.javascript.info/constructor-new
 :PROPERTIES:
 :type: a
 :END:
-c:d
-:END:
