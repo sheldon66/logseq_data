@@ -1,5 +1,5 @@
 ---
-title: Object
+title: Object create
 ---
 
 ## javascript
