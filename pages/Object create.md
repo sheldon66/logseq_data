@@ -16,6 +16,6 @@ https://zh.javascript.info/constructor-new
 ## click
 :PROPERTIES:
 :type: dfdf
-:c: d
+:c: ((6077ac46-3542-40b8-99e1-ca8e9832180d))
 :aut: meme
 :END:
