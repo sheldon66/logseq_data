@@ -2,7 +2,7 @@
 title: tail recursion
 ---
 
-## ML
+## SML
 :PROPERTIES:
 :id: 6077ac46-b21f-47d1-9603-235be6052de9
 :END:
