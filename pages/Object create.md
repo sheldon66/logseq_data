@@ -5,12 +5,9 @@ title: Object create
 ### new操作符
 :PROPERTIES:
 :language: javascript
-:id: 60867c3b-c165-4e8f-af9f-e4254b09fb37
 :END:
 #### new 操作符做了哪些步骤
-:PROPERTIES:
-:id: 60867ca2-b97e-492d-b31d-819bbbef0c77
-:END:
+
 当一个函数被使用 new 操作符执行时，它按照以下步骤：
 1. 一个新的空对象被创建并分配给 this。
 2. 函数体执行。通常它会修改 this，为其添加新的属性。
