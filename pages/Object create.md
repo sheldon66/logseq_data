@@ -13,3 +13,4 @@ title: Object create
 现代javascript教程
 https://zh.javascript.info/constructor-new
 #+END_QUOTE
+##
