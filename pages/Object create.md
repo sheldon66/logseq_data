@@ -5,6 +5,7 @@ title: Object create
 ### new操作符
 :PROPERTIES:
 :language: javascript
+:id: 60867c3b-c165-4e8f-af9f-e4254b09fb37
 :END:
 #### new 操作符做了哪些步骤
 :PROPERTIES:
