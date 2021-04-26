@@ -16,4 +16,5 @@ https://zh.javascript.info/constructor-new
 ## click
 :PROPERTIES:
 :type: a
+:c: d
 :END:
