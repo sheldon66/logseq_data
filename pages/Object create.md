@@ -2,7 +2,7 @@
 title: Object create
 ---
 
-### new
+### new操作符
 :PROPERTIES:
 :language: javascript
 :END:
