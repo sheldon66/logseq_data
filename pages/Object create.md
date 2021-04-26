@@ -15,7 +15,7 @@ https://zh.javascript.info/constructor-new
 #+END_QUOTE
 ## click
 :PROPERTIES:
-:type: a
+:type: dfdf
 :c: d
 :aut: meme
 :END:
