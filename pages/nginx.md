@@ -2,7 +2,7 @@
 title: nginx
 ---
 
-## nginx mobile auto redirect
+## nginx mobile auto redirect config
 ```
 location /
 {
